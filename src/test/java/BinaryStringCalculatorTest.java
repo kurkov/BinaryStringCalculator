@@ -2,7 +2,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class TestString {
+public class BinaryStringCalculatorTest {
 
   //  "01"
   //  "11"
